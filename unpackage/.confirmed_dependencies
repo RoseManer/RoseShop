@@ -1,0 +1,11 @@
+{
+	"index.html": {
+		"resources": [
+			"homePage.html",
+			"img/7.JPG"
+		],
+		"refer": [
+			"homePage.html"
+		]
+	}
+}
